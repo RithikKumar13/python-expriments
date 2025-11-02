@@ -1,2 +1,0 @@
-# python-expriments
-lab expriments 
